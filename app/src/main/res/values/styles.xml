@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <s&lt;!&ndash;tyle name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/dark_red</item>
+        <item name="colorPrimaryDark">@color/darker_red</item>
+    </style>
+    <style name="black_background">
+        <item name="android:background">@color/dark_gray</item>
+    </style>
+    <style name="red_background">
+        <item name="android:background">@color/dark_red</item>
+    </style>
+    <style name="black_background.Strong"
+        parent="@style/black_background">
+        <item name="android:textStyle">bold</item>
+    </style&ndash;&gt;>-->
+<!--    <style name="AppTheme" parent="Theme.AppCompat">-->
+<!--        <item name="buttonStyle">@style/ButtonBackNext</item>-->
+<!--    </style>-->
+<!--    <style name="ButtonBackNext" parent="Widget.AppCompat.Button">-->
+<!--        <item name="android:background">@color/lighter_dark_red</item>-->
+<!--    </style>-->
+</resources>
